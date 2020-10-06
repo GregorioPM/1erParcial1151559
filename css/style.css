@@ -15,8 +15,10 @@ li a{
     text-decoration: none;
     list-style: none;
 }
-
-.foo ul li a{
+button a{
+    color: white;
+}
+.foo a{
     color:#2f4899;
     font-weight: 700;
 }
