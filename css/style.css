@@ -7,3 +7,16 @@ li a{
 .img-covid{
     width: 100%;
 }
+
+.foo{
+    text-align: left;;
+}
+.foo ul li{
+    text-decoration: none;
+    list-style: none;
+}
+
+.foo ul li a{
+    color:#2f4899;
+    font-weight: 700;
+}
